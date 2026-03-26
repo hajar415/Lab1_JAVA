@@ -7,7 +7,7 @@ Toast en bas de l'écran, et le deuxième incrémente un compteur
 affiché au centre de l'écran. 
 
 ## Captures d'écran
-![Screenshot1](screenshots/imaage.jpg)
+![Screenshot](screenshots/imaage.jpeg)
 
 ## Auteur
 Hajar Chatbaoui
